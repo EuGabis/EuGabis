@@ -19,6 +19,7 @@ Desenvolvo sistemas web sob medida e automações com IA que resolvem problemas 
 | Projeto | O que é | Stack |
 |---|---|---|
 | [**DocChat RAG**](https://github.com/EuGabis/docchat-rag) | Perguntas sobre documentos com fontes citadas. Busca híbrida (vetorial + texto) acertou 100% no top-3 na avaliação | Python · FastAPI · PostgreSQL + pgvector · Claude |
+| [**Raio-X dos voos do Brasil**](https://github.com/EuGabis/raio-x-voos) · [painel](https://eugabis.github.io/raio-x-voos/) | 794 mil voos da ANAC analisados em SQL. Guarulhos é o aeroporto que mais atrasa e concentra as 10 rotas mais atrasadas do país | Python · pandas · PostgreSQL · ECharts |
 | [**CRM ON**](https://github.com/EuGabis/CRM_PADRAO) | CRM all-in-one multiempresa: contatos, leads, pipelines e automações | Next.js · TypeScript · Supabase (RLS) |
 | [**Central de Comando**](https://github.com/EuGabis/command_System) | Bots de WhatsApp e Instagram com IA que respondem clientes | Next.js · Meta Cloud API · OpenAI |
 | [**Inventário com IA**](https://github.com/EuGabis/invt) | Estoque com cadastro automático de produtos por código ou foto | Next.js · Supabase · OpenAI |
